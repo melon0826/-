@@ -1,0 +1,317 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1737549461320,
+    "title": "收藏夹栏",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1730334464853,
+        "title": "连网",
+        "icon": "https://logo.clearbit.com/192.168.226.200",
+        "url": "http://192.168.226.200/srun_portal_pc?ac_id=1&theme=pro"
+      },
+      {
+        "type": "link",
+        "addDate": 1705022865350,
+        "title": "百度",
+        "icon": "https://logo.clearbit.com/www.baidu.com",
+        "url": "https://www.baidu.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1694392873806,
+        "title": "腾视",
+        "icon": "https://logo.clearbit.com/v.qq.com",
+        "url": "https://v.qq.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1736065245103,
+        "title": "优酷",
+        "icon": "https://logo.clearbit.com/www.youku.com",
+        "url": "https://www.youku.com/channel/webcomic?spm=a2hje.13141534.top-header.5~5~5~5~5~5!2~1~3~A"
+      },
+      {
+        "type": "link",
+        "addDate": 1707991611174,
+        "title": "哔哩",
+        "icon": "https://logo.clearbit.com/www.bilibili.com",
+        "url": "https://www.bilibili.com/?spm_id_from=666.25.0.0"
+      },
+      {
+        "type": "link",
+        "addDate": 1744009715496,
+        "title": "夸克",
+        "icon": "https://logo.clearbit.com/pan.quark.cn",
+        "url": "https://pan.quark.cn/list#/list/all"
+      },
+      {
+        "type": "link",
+        "addDate": 1742368417033,
+        "title": "临邮",
+        "icon": "https://logo.clearbit.com/maildrop.cc",
+        "url": "https://maildrop.cc/"
+      },
+      {
+        "type": "link",
+        "addDate": 1741575247213,
+        "title": "可灵",
+        "icon": "https://logo.clearbit.com/klingai.com",
+        "url": "https://klingai.com/image-to-video/frame-mode/new"
+      },
+      {
+        "type": "link",
+        "addDate": 1694330955150,
+        "title": "GPT",
+        "icon": "https://logo.clearbit.com/chat.openai.com",
+        "url": "https://chat.openai.com/?model=text-davinci-002-render-sha"
+      },
+      {
+        "type": "link",
+        "addDate": 1740573794701,
+        "title": "豆包",
+        "icon": "https://logo.clearbit.com/www.doubao.com",
+        "url": "https://www.doubao.com/chat/1570689460550658"
+      },
+      {
+        "type": "link",
+        "addDate": 1740302113015,
+        "title": "哩布",
+        "icon": "https://logo.clearbit.com/www.liblib.art",
+        "url": "https://www.liblib.art/search?keyword=%E5%B0%8F%E5%B0%8F%E8%8B%8F&type=text"
+      },
+      {
+        "type": "link",
+        "addDate": 1741408205535,
+        "title": "星流",
+        "icon": "https://logo.clearbit.com/www.xingliu.art",
+        "url": "https://www.xingliu.art/projects"
+      },
+      {
+        "type": "link",
+        "addDate": 1670317671783,
+        "title": "评价",
+        "icon": "https://logo.clearbit.com/zz.cqjypg.com",
+        "url": "http://zz.cqjypg.com/#/loginRole"
+      },
+      {
+        "type": "link",
+        "addDate": 1696840794024,
+        "title": "Gitee",
+        "icon": "https://logo.clearbit.com/search.gitee.com",
+        "url": "https://search.gitee.com/?skin=rec&type=repository&q=%E7%82%89%E7%9F%B3%E5%85%84%E5%BC%9F"
+      },
+      {
+        "type": "link",
+        "addDate": 1676435032633,
+        "title": "教师",
+        "icon": "https://logo.clearbit.com/jzg.emis.cq.cn",
+        "url": "https://jzg.emis.cq.cn:8082/selfservice/index"
+      },
+      {
+        "type": "link",
+        "addDate": 1656324803656,
+        "title": "人社培",
+        "icon": "https://logo.clearbit.com/www.cqrspx.cn",
+        "url": "https://www.cqrspx.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1734176976243,
+        "title": "BT",
+        "icon": "https://logo.clearbit.com/www.1lou.cc",
+        "url": "https://www.1lou.cc/"
+      },
+      {
+        "type": "link",
+        "addDate": 1737376904381,
+        "title": "学科",
+        "icon": "https://logo.clearbit.com/wxt.zxxk.com",
+        "url": "https://wxt.zxxk.com/?stageid=2&subjectid=3"
+      },
+      {
+        "type": "link",
+        "addDate": 1708648339726,
+        "title": "转word",
+        "icon": "https://logo.clearbit.com/pdftoword.55.la",
+        "url": "https://pdftoword.55.la/"
+      },
+      {
+        "type": "link",
+        "addDate": 1700564648114,
+        "title": "知网",
+        "icon": "https://logo.clearbit.com/www.wxtsg.top",
+        "url": "http://www.wxtsg.top/e/action/ListInfo/?classid=61"
+      },
+      {
+        "type": "link",
+        "addDate": 1648021697214,
+        "title": "图书",
+        "icon": "https://logo.clearbit.com/zq5.bookan.com.cn",
+        "url": "http://zq5.bookan.com.cn/?t=index&id=22129#/"
+      },
+      {
+        "type": "link",
+        "addDate": 1687327220104,
+        "title": "职教",
+        "icon": "https://logo.clearbit.com/mooc.icve.com.cn",
+        "url": "https://mooc.icve.com.cn/cms/"
+      },
+      {
+        "type": "link",
+        "addDate": 1688957853180,
+        "title": "智教",
+        "icon": "https://logo.clearbit.com/auth.smartedu.cn",
+        "url": "https://auth.smartedu.cn/uias/login"
+      },
+      {
+        "type": "link",
+        "addDate": 1693119146229,
+        "title": "虚号",
+        "icon": "https://logo.clearbit.com/sms-activate.org",
+        "url": "https://sms-activate.org/ru/freePrice#settings"
+      },
+      {
+        "type": "link",
+        "addDate": 1723521497183,
+        "title": "软件",
+        "icon": "https://logo.clearbit.com/www.kdocs.cn",
+        "url": "https://www.kdocs.cn/l/cb6xr4hpd8pN?R=L1MvMTc1"
+      },
+      {
+        "type": "link",
+        "addDate": 1724071185719,
+        "title": "Steam",
+        "icon": "https://logo.clearbit.com/yx.kkdda.cn",
+        "url": "https://yx.kkdda.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1725787227611,
+        "title": "机工",
+        "icon": "https://logo.clearbit.com/www.cmpedu.com",
+        "url": "http://www.cmpedu.com/index.htm"
+      },
+      {
+        "type": "link",
+        "addDate": 1725787159229,
+        "title": "华信",
+        "icon": "https://logo.clearbit.com/www.hxedu.com.cn",
+        "url": "https://www.hxedu.com.cn/hxedu/hg/search/searchNewsAll.html?content=%E6%9C%BA%E6%A2%B0%E5%9F%BA%E7%A1%80&searchType="
+      },
+      {
+        "type": "link",
+        "addDate": 1729042478914,
+        "title": "高等",
+        "icon": "https://logo.clearbit.com/xuanshu.hep.com.cn",
+        "url": "https://xuanshu.hep.com.cn/front/book/bookSearch?wd=%E6%9C%BA%E6%A2%B0%E5%9F%BA%E7%A1%80&hasMatchingResource=yes&sortType=3&orderType=0"
+      },
+      {
+        "type": "link",
+        "addDate": 1729221717537,
+        "title": "人邮",
+        "icon": "https://logo.clearbit.com/www.ryjiaoyu.com",
+        "url": "https://www.ryjiaoyu.com/book?tab=book&sort=new&category=1"
+      },
+      {
+        "type": "link",
+        "addDate": 1745799928883,
+        "title": "重箱",
+        "icon": "https://logo.clearbit.com/mail.stu.cqnu.edu.cn",
+        "url": "http://mail.stu.cqnu.edu.cn/static/sirius-web/?version=1743490689342/#setting"
+      },
+      {
+        "type": "link",
+        "addDate": 1751727079712,
+        "title": "扣子",
+        "icon": "https://logo.clearbit.com/www.coze.cn",
+        "url": "https://www.coze.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1754795674995,
+        "title": "中小学智慧教育",
+        "icon": "https://logo.clearbit.com/basic.smartedu.cn",
+        "url": "https://basic.smartedu.cn/tchMaterial?defaultTag=e7bbb2de-0590-11ed-9c79-92fc3b3249d5%2F6a74973a-0772-11ed-ac74-092ab92074e6%2F44bee8bc-54e6-11ed-9c34-850ba61fa9f4%2Fe7bbd296-0590-11ed-9c79-92fc3b3249d5"
+      },
+      {
+        "type": "link",
+        "addDate": 1755420948478,
+        "title": "软件",
+        "icon": "https://logo.clearbit.com/foxirj.com",
+        "url": "https://foxirj.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1756008241815,
+        "title": "HSReplay",
+        "icon": "https://logo.clearbit.com/hsreplay.net",
+        "url": "https://hsreplay.net/battlegrounds/comps/"
+      },
+      {
+        "type": "link",
+        "addDate": 1756703144452,
+        "title": "京师智教",
+        "icon": "https://logo.clearbit.com/jsek.bnuic.com",
+        "url": "https://jsek.bnuic.com/home/#/userInfo"
+      },
+      {
+        "type": "link",
+        "addDate": 1757945806171,
+        "title": "微信公众平台",
+        "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+        "url": "https://mp.weixin.qq.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1758281013546,
+        "title": "夸克",
+        "icon": "https://logo.clearbit.com/www.quark.cn",
+        "url": "https://www.quark.cn/?entry=sem_pinzhuanbdsempckk"
+      },
+      {
+        "type": "link",
+        "addDate": 1759649314857,
+        "title": "移动盘资源",
+        "icon": "https://logo.clearbit.com/www.91panta.cn",
+        "url": "https://www.91panta.cn/index"
+      },
+      {
+        "type": "link",
+        "addDate": 1760666974882,
+        "title": "飞牛",
+        "icon": "https://logo.clearbit.com/qiushilei9426.5ddd.com",
+        "url": "https://qiushilei9426.5ddd.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1760755166532,
+        "title": "移盘任务",
+        "icon": "https://logo.clearbit.com/shuyingydyp.streamlit.app",
+        "url": "https://shuyingydyp.streamlit.app/"
+      },
+      {
+        "type": "link",
+        "addDate": 1760971774262,
+        "title": "彼心移云盘",
+        "icon": "https://logo.clearbit.com/www.bixbiy.com",
+        "url": "https://www.bixbiy.com/?sort=oldest"
+      },
+      {
+        "type": "link",
+        "addDate": 1761711005572,
+        "title": "Cloudflare",
+        "icon": "https://logo.clearbit.com/one.dash.cloudflare.com",
+        "url": "https://one.dash.cloudflare.com/46c663400f916c4d3e05a3f47a49868f/networks/tunnels/cfd_tunnel/cb37dc50-da23-41fa-a666-c3f357198d5e/edit?tab=publicHostname"
+      },
+      {
+        "type": "link",
+        "addDate": 1762009478797,
+        "title": "DigitalPlat",
+        "icon": "https://logo.clearbit.com/dash.domain.digitalplat.org",
+        "url": "https://dash.domain.digitalplat.org/panel/main?page=%2Fpanel%2Fdomains"
+      }
+    ]
+  }
+]
